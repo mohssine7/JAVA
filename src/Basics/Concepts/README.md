@@ -1,0 +1,5 @@
+<h2> - le code Java est compilé et l’on obtient du bytecode. Le bytecode est ensuite exécutable par une Java Virtual Machine (JVM). 😉 </h2>
+
+<h2> - Pour pouvoir compiler un code Java, un développeur va utiliser un Java Development Kit (JDK).</h2> 
+
+<h2> -Complétons ce tableau avec le Java Runtime Environment (JRE) qui permet d’exécuter un programme codé en Java déjà compilé. </h2> 

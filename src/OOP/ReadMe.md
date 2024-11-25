@@ -1,0 +1,2 @@
+<h1>L’encapsulation permet de protéger l’intégrité de l’objet. Imaginez une maison où l'interrupteur pour allumer la lumière d’une chambre soit sur la façade extérieure.</h1>
+<h2>Cela serait illogique car n’importe qui pourrait alors allumer ou éteindre la lumière.</h2>
