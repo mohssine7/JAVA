@@ -22,6 +22,8 @@ public class TypeVariable {
     // tableau de caractères
     static char[] myVarCharArray = {'H', 'e', 'l', 'l', 'o'};
     // var laisse au jdk choisi le type à la place de déclarer une type explicite
+    // constante : ne peut pas être modifiée une fois déclarée
+    final int A = 2;
 
 
 }
