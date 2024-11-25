@@ -1,6 +1,6 @@
 package OOP.Encapsulation;
 
-public class ClassA {
+public class Set_GET {
     private String name;
 
     public String getName() {
