@@ -20,4 +20,12 @@ Quand utiliser un record ?
     Pour éviter d’écrire manuellement du code boilerplate.
 
 Les records sont particulièrement utiles dans les contextes comme les DTO, les valeurs de configuration, ou les données transférées dans des API.
+<br><br>
+c'est une classe finale : un record ne peut être hérité.
+
+    chaque élément fourni entre parenthèses sera de visibilité privée et final
+
+    un accesseur est automatiquement ajouté pour chaque élément
+
+    un constructeur public permettant d'initialiser les éléments est automatiquement ajouté 
 </p>
