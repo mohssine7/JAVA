@@ -1,0 +1,4 @@
+<h1>Java possède un mécanisme pour gérer les erreurs. Une erreur est un problème que le code rencontre, c’est que nous appelons une exception. </h1>
+<h2>Rappelons que Java est un langage objet. Du coup, les exceptions seront aussi des objets qui représentent donc les erreurs. Il existe une classe générique pour représenter une erreur qui est tout simplement java.lang.Exception.</h2> 
+
+<h2>Cette classe pourra être héritée pour créer des exceptions particulières. Sachez qu’il en existe déjà de nombreuses ! Si on reprend la situation précédente, nous aurions obtenu une java.lang. NullPointerException.</h2>
